@@ -1,16 +1,4 @@
-# adapt2
+ABSTRACT - AdaptX is a sophisticated fitness app that provides personalized exercise routines for people with certain health conditions, including cardiovascular conditions,pregnancy, and short-term musculoskeletal pain. Through the use of IoT-based health monitoring equipment, such as the MAX30102 sensor for heart rate and blood oxygen level monitoring, AdaptX allows real-time assessment of the user's physiological condition. Also, its AI-driven mood recognition system examines user feedback, even from custom-made questionnaires, to measure emotional well-being. With the incorporation of both physical and psychological factors, the app adjusts workout routines, dynamically matching the user's current state.In addition to customized exercise prescriptions, AdaptX includes stress-reduction methods, inactivity notifications, and visualized progress via interactive charts and graphs. The app promotes rehabilitation and fitness routine consistency by guaranteeing that workouts are safe, efficient, and responsive to real-time health measurements. By linking physical well-being with mental health seamlessly, AdaptX facilitates enhanced personalized rehabilitation and healthcare and encourages a holistic fitness approach. 
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+TECH STACK
+ Flutter,Dart,Firebase,Aurdino UNO,TFlite model
