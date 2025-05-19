@@ -12,9 +12,17 @@
 
 **App overview**
 
+•	App Introduction
+
+  ![image](https://github.com/user-attachments/assets/a622098d-8044-4c50-84f4-b29a8df06954)
+
 •	Login Page for secure user authentication
                 
   ![image](https://github.com/user-attachments/assets/f993e20f-7975-4a4e-806e-575c8927df44)
+
+•	User profile page
+   
+  ![image](https://github.com/user-attachments/assets/3a717161-760e-45c6-aa90-817a2a2e7b8f)
 
 •	Exercise categories Page
                  
@@ -41,6 +49,15 @@
   ![image](https://github.com/user-attachments/assets/216bd657-780d-49e9-ab7c-30612ac0fb95)
 
   ![image](https://github.com/user-attachments/assets/b2d32585-2767-4620-88a7-c3e88c036de9)
+  
+•	Exercise Completion Page
+
+  ![image](https://github.com/user-attachments/assets/9744f208-b6c7-475f-a8e3-c70f99a25f78)
+
+
+  
+
+  
 
 
 
