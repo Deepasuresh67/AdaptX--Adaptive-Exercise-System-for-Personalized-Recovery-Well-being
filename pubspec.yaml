@@ -1,0 +1,51 @@
+name: adapt2
+description: A new Flutter project.
+
+publish_to: 'none'
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  circular_countdown_timer: ^0.2.0
+  flutter_staggered_animations: ^1.1.1
+  lottie: ^2.7.0
+  vibration: ^1.7.5
+  shared_preferences: ^2.2.2
+  url_launcher: ^6.2.4
+  provider: ^6.1.1
+  confetti: ^0.7.0
+  firebase_core: ^2.24.2
+  firebase_auth: ^4.17.4
+  cloud_firestore: ^4.15.4
+  firebase_ml_model_downloader: ^0.2.0+8
+  package_info_plus: ^4.2.0
+  uuid: ^4.3.3
+  video_player: ^2.8.1
+  chewie: ^1.7.4
+  audioplayers: ^5.2.1
+  flutter_tts: ^3.8.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/animations/
+    - assets/images/
+    - assets/videos/
+    - assets/videos/Neck_pain/
+    - assets/videos/Shoulder_pain/
+    - assets/videos/Back_pain/
+    - assets/videos/Wrist_pain/
+    - assets/videos/Knee_pain/
+    - assets/audio/beep.mp3
+    - assets/audio/complete.mp3
+    - assets/audio/countdown.mp3

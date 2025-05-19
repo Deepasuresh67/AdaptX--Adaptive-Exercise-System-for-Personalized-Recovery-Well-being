@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "85406590796",
+    "project_id": "rahmath-b7dea",
+    "storage_bucket": "rahmath-b7dea.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85406590796:android:877f1d936c7fa2091511e9",
+        "android_client_info": {
+          "package_name": "com.example.adapt2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC08sYKX6X9pafJPuXLmBiJjhtW6dC9RiA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
